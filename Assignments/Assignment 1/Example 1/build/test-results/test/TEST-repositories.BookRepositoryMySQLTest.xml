@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repositories.BookRepositoryMySQLTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-10T15:38:52" hostname="DESKTOP-9D9SP5G" time="0.143">
+  <properties/>
+  <testcase name="findById" classname="repositories.BookRepositoryMySQLTest" time="0.143"/>
+  <system-out><![CDATA[findById
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

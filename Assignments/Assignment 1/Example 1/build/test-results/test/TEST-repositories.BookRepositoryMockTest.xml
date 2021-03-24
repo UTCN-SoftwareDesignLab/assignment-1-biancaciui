@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repositories.BookRepositoryMockTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-10T11:29:05" hostname="DESKTOP-9D9SP5G" time="0.016">
+  <properties/>
+  <testcase name="findAll" classname="repositories.BookRepositoryMockTest" time="0.0"/>
+  <testcase name="findById" classname="repositories.BookRepositoryMockTest" time="0.016"/>
+  <testcase name="save" classname="repositories.BookRepositoryMockTest" time="0.0"/>
+  <testcase name="removeAll" classname="repositories.BookRepositoryMockTest" time="0.0"/>
+  <system-out><![CDATA[@Before
+findAll
+findById
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
